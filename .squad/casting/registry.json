@@ -1,0 +1,54 @@
+{
+  "schema": "squad-agent-provenance/v1",
+  "schema_version": 1,
+  "revision": 2,
+  "generated_at": "2026-11-01T18:59:52.424Z",
+  "agents": {
+    "lead": {
+      "display_name": "lead",
+      "persistent_name": "lead",
+      "role": "lead",
+      "universe": "preset:default",
+      "status": "active",
+      "created_at": "2026-11-01T18:59:52.424Z",
+      "updated_at": "2026-11-01T18:59:52.424Z"
+    },
+    "reviewer": {
+      "display_name": "reviewer",
+      "persistent_name": "reviewer",
+      "role": "reviewer",
+      "universe": "preset:default",
+      "status": "active",
+      "created_at": "2026-11-01T18:59:52.424Z",
+      "updated_at": "2026-11-01T18:59:52.424Z"
+    },
+    "devrel": {
+      "display_name": "devrel",
+      "persistent_name": "devrel",
+      "role": "devrel",
+      "universe": "preset:default",
+      "status": "active",
+      "created_at": "2026-11-01T18:59:52.424Z",
+      "updated_at": "2026-11-01T18:59:52.424Z"
+    },
+    "security": {
+      "display_name": "security",
+      "persistent_name": "security",
+      "role": "security",
+      "universe": "preset:default",
+      "status": "active",
+      "created_at": "2026-11-01T18:59:52.424Z",
+      "updated_at": "2026-11-01T18:59:52.424Z"
+    },
+    "docs": {
+      "display_name": "docs",
+      "persistent_name": "docs",
+      "role": "docs",
+      "universe": "preset:default",
+      "status": "active",
+      "created_at": "2026-11-01T18:59:52.424Z",
+      "updated_at": "2026-11-01T18:59:52.424Z"
+    }
+  },
+  "transaction_id": "96f61bb9-a79e-44d5-826c-5bb9c63dbdf6"
+}
