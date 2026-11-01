@@ -39,6 +39,7 @@ here only when their agent names also exist in the casting registry.
 | Work Type | Primary | Secondary |
 |-----------|---------|----------|
 | lead | lead | — |
+| backend | backend | — |
 | reviewer | reviewer | — |
 | devrel | devrel | — |
 | security | security | — |

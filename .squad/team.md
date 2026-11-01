@@ -13,6 +13,7 @@
 | Name | Role | Charter | Status |
 |------|------|---------|--------|
 | lead | lead | `.squad/agents/lead/charter.md` | ✅ Active |
+| backend | Backend Dev | `.squad/agents/backend/charter.md` | ✅ Active |
 | reviewer | reviewer | `.squad/agents/reviewer/charter.md` | ✅ Active |
 | devrel | devrel | `.squad/agents/devrel/charter.md` | ✅ Active |
 | security | security | `.squad/agents/security/charter.md` | ✅ Active |
